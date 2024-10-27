@@ -8,7 +8,7 @@ Build a simple dashboard or UI using Streamlit and retrieve YouTube channel data
 Python scripting,Data Collection,API integration,Data Management using mySQL,Streamlit
 
 #About :
-Hello! I'm kishore, a B.Com graduate with a deep passion and career change for AI, ML. I'm currently embarking on an exciting journey into data science, with my first project titled YouTube Data Harvesting and Warehousing Using SQL. In this project, I delved into the vast expanse of YouTube data to extract meaningful insights. This experience ignited my enthusiasm for data-driven decision-making and significantly enhanced my skills in data extraction techniques and database management.
+Hello! I'm Kishore , B.Com graduate with a deep passion and career change for AI, ML. I'm currently starting on an exciting journey into data science, with my first project titled YouTube Data Harvesting and Warehousing Using SQL. In this project, I explored the extensive data available on YouTube to extract meaningful insights. This experience sparked my enthusiasm for data-driven decision-making and greatly improved my skills in data extraction techniques and database management.
 
 #Problem Statement:
 The problem statement is to create a Streamlit application that allows users to access and analyze data from multiple YouTube channels.
