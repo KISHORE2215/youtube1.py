@@ -9,8 +9,6 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import json
 
-# Assuming 'item' is a JSON string
-
 
 #MySQL connection
 mydb = pymysql.connect(host='localhost', user='root', password='Kiya@2215', database='youtube_data')
